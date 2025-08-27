@@ -7,12 +7,19 @@ def ask(prompt):
 if (__name__ == "__main__"):
     name = ask("Hi! What is your name?  ")
     guessed = False
+    guesses = 0
     while guessed != True:
+        if guesses >= 5:
+            print("Couldn't guess your age in 5 turns!")
+            break
         guess = random.randint(15,30)
-        answer = ask('Is '+ guess + 'your age?(y/n)  ')
+        answer = ask('Is '+ str(guess) + 'your age?(y/n)  ')
         if answer == 'y':
+            print(name + " is "+str(guess) +" years old.")
             guessed = True
         else:
             print("Rats.")
-    print(name + " is "+guess +" years old.")
+            guesses += 1
+        
+    
    
