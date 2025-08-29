@@ -2,4 +2,4 @@
 
 
 //8-28-25//
-I got my Github repo set up and ready for class. I've also been trying to figure out the grader on Github for 3005. 
+I got my Github repo set up and ready for class. I've also been trying to figure out the grader on Github for 3005. -edit- I got it working  
