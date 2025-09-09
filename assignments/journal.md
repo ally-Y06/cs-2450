@@ -1,4 +1,6 @@
 //2450 Journal//
+//9-8-25//
+I learned about class inheritance in C++. This is the format: "class ChildClass : public InheritedClass"
 
 //9-5-25//
 This week I did vectors in C++. Note to remember: image vector is height*width*3 because there is 3 channels for every pixel.
