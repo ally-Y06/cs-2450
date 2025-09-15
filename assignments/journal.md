@@ -1,4 +1,7 @@
 //2450 Journal//
+//9-15-25//
+I learned more git commands that allow you to make branches in 2450. git checkout -b new-branch then git add, commit, and push. You make a pull request and merge it on Github (don't merge your own branches).
+
 //9-8-25//
 I learned about class inheritance in C++. This is the format: "class ChildClass : public InheritedClass"
 
