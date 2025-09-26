@@ -1,4 +1,8 @@
 //2450 Journal//
+
+//9-26-25//
+This week I did a PPM menu in C++, so I learned how to add a .in file (./ppm_menu < input.in). I also had it read a .ppm file that I converted from a .png, and printed out ascii art of my dog. 
+
 //9-15-25//
 I learned more git commands that allow you to make branches in 2450. git checkout -b new-branch then git add, commit, and push. You make a pull request and merge it on Github (don't merge your own branches).
 
