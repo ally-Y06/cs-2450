@@ -1,5 +1,8 @@
 //2450 Journal//
 
+//9-30-25//
+I learned more about and worked on C++ overloaded operators. Using "this->" can help track where a function is coming from. 
+
 //9-26-25//
 This week I did a PPM menu in C++, so I learned how to add a .in file (./ppm_menu < input.in). I also had it read a .ppm file that I converted from a .png, and printed out ascii art of my dog. 
 
