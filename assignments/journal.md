@@ -1,4 +1,6 @@
 //2450 Journal//
+//10-8-25//
+I learned about pair programming and callback functions (which have similar functionality to buttons because they allow events).
 
 //9-30-25//
 I learned more about and worked on C++ overloaded operators. Using "this->" can help track where a function is coming from. 
