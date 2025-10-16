@@ -1,4 +1,9 @@
 //2450 Journal//
+
+
+//10-16-25//
+I learned about tinydb from documentation, like how to enter and modify the values being stored. It's basically a python dictionary but you use query and search.
+
 //10-8-25//
 I learned about pair programming and callback functions (which have similar functionality to buttons because they allow events).
 
