@@ -1,5 +1,7 @@
 //2450 Journal//
 
+//10-23-25//
+I learned how to use selenium to make unit tests and accessing css selectors with it. You can use classes, ids, names, and more to get specific elements. 
 
 //10-16-25//
 I learned about tinydb from documentation, like how to enter and modify the values being stored. It's basically a python dictionary but you use query and search.
