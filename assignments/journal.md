@@ -1,5 +1,8 @@
 //2450 Journal//
 
+//10-29-25//
+I learned about making images with coordinate planes in C++, and how it's different from rows and columns because of the way up/down works and there is negatives.
+
 //10-23-25//
 I learned how to use selenium to make unit tests and accessing css selectors with it. You can use classes, ids, names, and more to get specific elements. 
 
