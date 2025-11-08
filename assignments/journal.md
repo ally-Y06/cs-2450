@@ -1,5 +1,8 @@
 //2450 Journal//
 
+//11-7-23//
+I learned how to put selenium tests into github actions with a yml file. Remember that if it's not working, print out messages so you can see if it's something silly blocking it from working like timeago not installing...
+
 //10-29-25//
 I learned about making images with coordinate planes in C++, and how it's different from rows and columns because of the way up/down works and there is negatives.
 
