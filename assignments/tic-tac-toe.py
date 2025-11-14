@@ -37,7 +37,6 @@ def winner(b):
     else:
         return 'X'
 
-
 def play():
     board = [str(i) for i in range(9)]
     turn = "X"

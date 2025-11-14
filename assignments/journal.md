@@ -1,6 +1,9 @@
 //2450 Journal//
 
-//11-7-23//
+//11-14-25//
+I made a mandelbrot and learned about deploying a container to AWS, putting a site on the internet.
+
+//11-7-25//
 I learned how to put selenium tests into github actions with a yml file. Remember that if it's not working, print out messages so you can see if it's something silly blocking it from working like timeago not installing...
 
 //10-29-25//
