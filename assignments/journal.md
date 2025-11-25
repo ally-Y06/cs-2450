@@ -1,5 +1,8 @@
 //2450 Journal//
 
+//11-23-25//
+I mainly worked on RobotWarz and learned about making it. I also learned about security, but other than that not much is new.
+
 //11-14-25//
 I made a mandelbrot and learned about deploying a container to AWS, putting a site on the internet.
 
